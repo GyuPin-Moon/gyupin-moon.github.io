@@ -16,11 +16,6 @@ project_entries:
   - title: Twitch Data Analysis
     url: overview-post
     desc: Gachon Univ. Bigdata class subject.
-    
-  - title: Github Page Blog
-    url: https://github.com/GyuPin-Moon/gyupin-moon.github.io
-    desc : url test
-  
 
 old_project_entries:
   - title: Title
