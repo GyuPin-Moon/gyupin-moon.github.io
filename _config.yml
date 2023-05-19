@@ -29,8 +29,8 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_blog: Blog
     title_projects: Portfolio
+    title_blog: Blog
     title_misc_list: Details
 
 soopr:
