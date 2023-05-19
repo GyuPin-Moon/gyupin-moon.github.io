@@ -1,8 +1,11 @@
-title: MOON gyupin
-author: Abhinav Saxena
+title: NIGHT VIEW in SQUARE
+author: Gyupin Moon
 url: https://www.gyupin-moon.github.io/ # root address of the site
 description: | # description of the site (multiple lines allowed)
-  Semi System Engineer.
+  This page is blog of Gyupin Moon.
+  I'm studying System Engineering, Operation System, Linux Kerenl at NOSLab(Next-generation Operation System Lab) in Gachon University.
+  You can see my documents, paper reviews, and publications (future) at here.
+  
 
 permalink: /:slug
 
@@ -30,8 +33,8 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Ongoing Projects
-    title_blog: Paper Review
-    title_misc_list: Career
+    # title_blog: Paper Review
+    title_misc_list: CV
     title_old_projects: Finished Projects
 
 soopr:
