@@ -3,8 +3,6 @@ author: Abhinav Saxena
 url: https://www.gyupin-moon.github.io/ # root address of the site
 description: | # description of the site (multiple lines allowed)
   Semi System Engineer.
-  Gachon Univ. Computer Enginnering.
-  Intern at NOSLab.
 
 permalink: /:slug
 
