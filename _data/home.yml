@@ -2,7 +2,7 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: Paper Review
     url: blog
 
   - title: github
@@ -14,13 +14,12 @@ project_entries:
     desc: 디버깅을 통해 배우는 리눅스 커널의 구조와 원리 by austin kim
 
   - title: Twitch Data Analysis
-    url: overview-post
+    url: https://github.com/GyuPin-Moon/GCU_BigData-Project
     desc: Gachon Univ. Bigdata class subject.
     
-  - title: Github Page Blog
+  - title: Gachon Cafeteria Complexity System
     url: https://github.com/GyuPin-Moon/gyupin-moon.github.io
-    desc : url test
-    highlight: NEW
+    desc : Gachon Univ. Software Engineering subject.
 
 old_project_entries:
   - title: Title
@@ -41,6 +40,18 @@ footer_entries:
 
 
 misc_entries:
+  - title: Career Test
+    url: False
+    entries:
+      - title: NOSLab [2023.06 ~ Present]
+        url: https://noslab.github.io
+      
+      - title: Gachon Universiy Computer Engineering [2017.03 ~ 2024.02]
+        url: False
+        
+      - title: Daein High School [2014.03 ~ 2017.02]
+        url: False
+
   - title: this is an example vertical list
     url: false
 
