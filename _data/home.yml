@@ -54,4 +54,10 @@ misc_entries:
         
       - title: Daein High School [2014.03 ~ 2017.02]
         url: False
+  
+  - title: Tech
+    url: False
+    entries:
+      - title: Operation System [LEVEL 2]
+        url: False
 
