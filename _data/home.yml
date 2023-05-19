@@ -32,14 +32,8 @@ old_project_entries:
 
 
 footer_entries:
-  - title: email
-    desc: kurizda@gachon.ac.kr
-    
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://www.github.com/GyuPin-Moon/
+  - title: Contact
+    url: about
 
 
 misc_entries:
