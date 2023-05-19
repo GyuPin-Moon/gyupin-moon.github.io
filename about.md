@@ -3,6 +3,15 @@ layout: post
 title: About
 ---
 
-This is an example page!
+## Welcome to GyuPin Moon's Blog!
 
-Actually, it has the same layout of a post...
+### About Me
+
+Gachon University. Computer Engineering.
+Intern at NOSLab (Next Operation System Lab)
+
+### Interest in
+- Operation System
+- Linux Kernel
+- Embedded System
+- Debuging & Visualizing
