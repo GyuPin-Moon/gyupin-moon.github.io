@@ -69,15 +69,15 @@ misc_entries:
       
       - title: Linux Kernel Analysis
         url: False
-
+        
   - title: Embedded System [LEVEL 2]
     url: False
     entries:
       - title: Raspberry Pi
         url: False
-       
-      -title: Arduino
-       url: False
+        
+      - title: Arduino
+        url: False
        
   - title: Cloud [LEVEL 1]
     url: False
