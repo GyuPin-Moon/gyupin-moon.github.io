@@ -1,5 +1,5 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
   - title: Paper Review
@@ -8,7 +8,7 @@ navbar_entries:
   - title: Documents
     url: https://paper-watcher-cba.notion.site/cdabd7e3adce4e728267d79077dc08aa
 
-  - title: github
+  - title: Github
     url: https://www.github.com/GyuPin-Moon/
 
 project_entries:
