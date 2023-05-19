@@ -15,10 +15,10 @@ project_entries:
     
   - title: Raspbian Kernel Analysis
     url: overview-post
-    desc: '디버깅을 통해 배우는 리눅스 커널의 구조와 원리' by austin kim
+    desc: 디버깅을 통해 배우는 리눅스 커널의 구조와 원리 by austin kim
 
   - title: Twitch Data Analysis
-    url: https://github.com/GyuPin-Moon/GCU_BigData-Project
+    url: overview-post
     desc: Gachon Univ. Bigdata class subject.
 
 
