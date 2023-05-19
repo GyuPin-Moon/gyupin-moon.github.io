@@ -55,44 +55,18 @@ misc_entries:
       - title: Daein High School [2014.03 ~ 2017.02]
         url: False
   
-  #- title: Tech
-  #  url: False
-  #  entries:
-  #    - title: Operation System [LEVEL 2]
-  #      url: False
-        # entries: << SUB ENTRY NOT ALLOWED >
-  
   - title: Operation System [LEVEL 2]
     url: False
     entries: 
       -title: Linux Distribution (Ubuntu, Raspbian, CentOS)
        url: False
-
+      
       -title: OS Virtualization (WSL2, VirtualBox)
        url: False
-
+      
       -title: System Programming
        url: False
-
+      
       -title: Linux Kernel Analysis
        url: False
-
-  - title: Embedded System [LEVEL 2]
-    url: False
-    entries:
-      -title: Raspberry Pi
-       url: False
-
-      -title: Arduino
-       url: False
-
-  - title: Cloud [LEVEL 1]
-    url: False
-    entries:
-      -title: Amazon Web Service
-       url: False
-
-      -title: Docker
-       url: False
-
 
