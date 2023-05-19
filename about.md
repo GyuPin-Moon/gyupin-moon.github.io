@@ -15,3 +15,7 @@ Intern at NOSLab (Next Operation System Lab)
 - Linux Kernel
 - Embedded System
 - Debuging & Visualizing
+
+### Contact
+- email : kurizda@gachon.ac.kr
+- sns : -
