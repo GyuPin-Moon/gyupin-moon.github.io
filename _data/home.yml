@@ -58,15 +58,15 @@ misc_entries:
   - title: Operation System [LEVEL 2]
     url: False
     entries: 
-      -title: Linux Distribution (Ubuntu, Raspbian, CentOS)
-       url: False
+      - title: Linux Distribution [Ubuntu, Raspbian, CentOS]
+        url: False
       
-      -title: OS Virtualization (WSL2, VirtualBox)
-       url: False
+      - title: OS Virtualization (WSL2, VirtualBox)
+        url: False
       
-      -title: System Programming
-       url: False
+      - title: System Programming
+        url: False
       
-      -title: Linux Kernel Analysis
-       url: False
+      - title: Linux Kernel Analysis
+        url: False
 
