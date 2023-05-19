@@ -1,7 +1,7 @@
-title: gyupin MOON blog
+title: MOON gyupin
 author: Abhinav Saxena
 url: https://www.gyupin-moon.github.io/ # root address of the site
-description: > # description of the site (multiple lines allowed)
+description: | # description of the site (multiple lines allowed)
   Semi System Engineer.\n
   Gachon Univ. Computer Enginnering.\n
   Intern at NOSLab.
@@ -21,7 +21,7 @@ theme_config:
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
-  show_copyright: true # show copyright notice in footer
+  show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
