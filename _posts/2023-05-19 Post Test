@@ -1,0 +1,38 @@
+---
+layout: post
+author: GyuPin Moon
+tags: [test]
+---
+
+## List
+- [Overview](#overview)
+- [Motive](#motive)
+
+## Overview(#overview)
+
+this is test post.
+
+### experiments
+
+```C
+#include <stdio.h>
+
+int main(void)
+{
+  print("hello\n");
+  return 0;
+}
+```
+C syntax highlight?
+
+## Motive(#motive)
+
+I don't like coffee.
+
+### Development of LLM
+
+`But, I like black tea`
+hah :D
+
+
+
